@@ -14,9 +14,8 @@ export function Experience() {
               </div>
               <div className="shrink-0 sm:text-right">
                 <p className="text-sm font-semibold text-slate-700">
-                  <time dateTime="2026-03">Mar 2026</time> – Present
+                  <time dateTime="2026-03">Mar 2026</time> – <time dateTime="2026-08">Aug 2026</time>
                 </p>
-                <p className="mt-1 text-xs font-semibold uppercase tracking-[0.14em] text-slate-500">Current role</p>
               </div>
             </div>
 
